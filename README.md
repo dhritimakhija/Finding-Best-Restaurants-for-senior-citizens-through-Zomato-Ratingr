@@ -1,1 +1,1 @@
-# Finding-Best-Restaurants-for-senior-citizens-through-Zomato-Ratingr
+# Finding-Best-Restaurants-for-senior-citizens-through-Zomato-Ratings
